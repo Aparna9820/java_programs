@@ -1,4 +1,4 @@
-package May_31st_examples_tasks;
+package May_31st_Strings_examples_tasks;
 
 public class Srings_Functions {
     public static void main(String[] args) {
